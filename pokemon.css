@@ -1,0 +1,125 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    background-color: black;
+}
+
+.navbar {
+    display: flex;
+    background-color: rgb(88, 87, 87);
+}
+
+.button {
+    background-color: rgb(187, 187, 37);
+    width: 70px;
+    border-radius: 10px;
+    position: relative;
+    left: 750px;
+    top: 35px;
+    color: white;
+    border-style: none;
+    height: 20px;
+}
+
+.title {
+    color: white;
+    position: relative;
+    left: 800px;
+    display: inline;
+    margin-bottom: 7px;
+}
+
+.title1 {
+    margin-bottom: -15px;
+}
+
+.nav1 {
+    display: flex;
+    margin-top: 25px;
+    padding: 15px;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    background-color: rgb(78, 50, 50);
+    width: 1024px;
+    margin-left: 145px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.sub {
+    background-color: rgb(141, 72, 72);
+    display: flex;
+    margin-left: 145px;
+    padding: 27px;
+    width: 1000px;
+    overflow: auto;
+    scrollbar-width: none;
+}
+
+.poke {
+    margin-left: 40px;
+    background-color: white;
+    border-radius: 8px;
+    margin-top: 14px;
+    margin-bottom: -14px;
+}
+
+.para {
+    padding-left: 67px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.eye {
+    color: white;
+    background-color: skyblue;
+    display: inline-block;
+    position: relative;
+    bottom: 132px;
+    left: 151px;
+    border-radius: 10px 0px 0px 10px;
+    font-size: 11px;
+    padding: 4px;
+}
+
+.nav2 {
+    background-color: rgb(59, 65, 95);
+    color: white;
+    align-items: center;
+}
+
+.nav3 {
+    background-color: rgb(146, 98, 35);
+    color: white;
+    align-items: center;
+}
+
+.horizontal {
+    width: 250px;
+    height: 0px;
+}
+
+.sub1 {
+    background-color: rgb(167, 160, 173);
+    border-radius: 0px 0px 10px 10px;
+}
+
+.sub2 {
+    background-color: rgb(68, 58, 44);
+    border-radius: 0px 0px 10px 10px;
+}
+
+.sub3 {
+    background-color: rgb(182, 182, 107);
+    border-radius: 0px 0px 10px 10px;
+}
+
+.logo {
+    margin-left: 200px;
+}
+
+p {
+    color: white;
+}
